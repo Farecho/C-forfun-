@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//This calculator has five operators
 int main() {
 
     char name[50];
